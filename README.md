@@ -57,6 +57,5 @@ Install the required modules using pip:
 ```bash
 pip install pygame pillow
 
-![Screenshot]([screenshot.png](https://github.com/wu-tangyatharthsingh/A-Z-Soundboard-App-Now-I-Know-My-A-B-C...-with-Sound-/blob/fe9f06eb35f532afe499bb19e6c0d140e162c37d/Screenshot%202025-08-06%20191953.png))
 
 
