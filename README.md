@@ -26,16 +26,6 @@ It's a beginner-friendly project meant to sharpen Python skills while creating s
 
 ---
 
-## 🎯 Features
-
-- 26 Buttons (A to Z) laid out in a grid
-- Each button plays a unique `.mp3` file for the letter
-- Background image for visual appeal
-- Each button has a **random color**
-- Alphabet is generated using a simple `for` loop and `string.ascii_uppercase`
-
----
-
 ## 📚 What I Learned
 
 As a computer science student, this project helped me learn:
@@ -51,10 +41,22 @@ This was a hands-on way to understand how different Python modules work together
 
 ---
 
-## 🗂️ Requirements
+## 🎯 Features
+
+- 26 Buttons (A to Z) laid out in a grid
+- Each button plays a unique `.mp3` file for the letter
+- Background image for visual appeal
+- Each button has a **random color**
+- Alphabet is generated using a simple `for` loop and `string.ascii_uppercase`
+
+---
+## 🗂️ Requirements  
 
 Install the required modules using pip:
 
 ```bash
 pip install pygame pillow
+
+![Screenshot]([screenshot.png](https://github.com/wu-tangyatharthsingh/A-Z-Soundboard-App-Now-I-Know-My-A-B-C...-with-Sound-/blob/fe9f06eb35f532afe499bb19e6c0d140e162c37d/Screenshot%202025-08-06%20191953.png))
+
 
